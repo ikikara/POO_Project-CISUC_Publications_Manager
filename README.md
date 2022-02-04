@@ -39,6 +39,7 @@ You have two ways to run this project:
       ```
 
 ## Notes important to read
+- Documentation about classes and his methods are in "javadoc" folder, just download this folder and open html files on browser
 - The files that are on folder "resources" must be on the same folder of executable (1st way to run) or on the same folder of *.java files (2nd way to run)
 - For the 1st way to run, the files referred must be on the same folder
 - For more information about how the src and resource files are structured read the report
