@@ -1,0 +1,34 @@
+<publicacao1>-<investigador1>,<investigador2>-<key1>,<key2>,<key3>-Artigo de Conferencia-2020-500-<resumo1>-<conferencia1>-1,1,2020-Coimbra
+<publicacao6>-<investigador6>,<investigador7>-<key1>,<key2>,<key3>-Artigo de Revista-2020-1000-<resumo6>-<revista1>-1,1,2020-1
+<publicacao11>-<investigador11>,<investigador12>-<key1>,<key2>,<key3>-Livro-2020-10000-<resumo11>-<editora1>-111111111
+<publicacao16>-<investigador16>,<investigador17>-<key1>,<key2>,<key3>-Capitulo de Livro-2020-10000-<resumo16>-<editora1>-111111111-<capitulo1>-1,200
+<publicacao21>-<investigador21>,<investigador22>-<key1>,<key2>,<key3>-Livro de Conferencias-2020-7500-<resumo21>-<editora1>-111111111-<conferencia1>-2
+
+
+<publicacao2>-<investigador1>,<investigador2>-<key1>,<key2>,<key3>-Artigo de Conferencia-2020-500-<resumo2>-<conferencia2>-1,1,2020-Coimbra
+<publicacao3>-<investigador1>,<investigador2>-<key1>,<key2>,<key3>-Artigo de Conferencia-2018-200-<resumo3>-<conferencia3>-1,1,2018-Lisboa
+<publicacao4>-<investigador1>,<investigador2>-<key1>,<key2>,<key3>-Artigo de Conferencia-2018-200-<resumo4>-<conferencia4>-1,1,2018-Leiria
+<publicacao5>-<investigador1>,<investigador2>-<key1>,<key2>,<key3>-Artigo de Conferencia-2014-100-<resumo5>-<conferencia5>-1,1,2014-Porto
+
+
+<publicacao7>-<investigador6>,<investigador7>-<key1>,<key2>,<key3>-Artigo de Revista-2020-1000-<resumo7>-<revista2>-1,1,2020-2
+<publicacao8>-<investigador6>,<investigador7>-<key1>,<key2>,<key3>-Artigo de Revista-2018-500-<resumo8>-<revista3>-1,1,2018-3
+<publicacao9>-<investigador6>,<investigador7>-<key1>,<key2>,<key3>-Artigo de Revista-2018-500-<resumo9>-<revista4>-1,1,2018-4
+<publicacao10>-<investigador6>,<investigador7>-<key1>,<key2>,<key3>-Artigo de Revista-2014-400-<resumo10>-<revista5>-1,1,2014-5
+
+
+<publicacao12>-<investigador11>,<investigador12>-<key1>,<key2>,<key3>-Livro-2020-10000-<resumo12>-<editora2>-211111111
+<publicacao13>-<investigador11>,<investigador12>-<key1>,<key2>,<key3>-Livro-2018-5000-<resumo13>-<editora3>-311111111
+<publicacao14>-<investigador11>,<investigador12>-<key1>,<key2>,<key3>-Livro-2018-5000-<resumo14>-<editora4>-411111111
+<publicacao15>-<investigador11>,<investigador12>-<key1>,<key2>,<key3>-Livro-2014-4000-<resumo15>-<editora5>-511111111
+
+
+<publicacao17>-<investigador16>,<investigador17>-<key1>,<key2>,<key3>-Capitulo de Livro-2020-10000-<resumo17>-<editora2>-211111111-<capitulo2>-1,200
+<publicacao18>-<investigador16>,<investigador17>-<key1>,<key2>,<key3>-Capitulo de Livro-2018-5000-<resumo18>-<editora3>-311111111-<capitulo3>-1,200
+<publicacao19>-<investigador16>,<investigador17>-<key1>,<key2>,<key3>-Capitulo de Livro-2018-5000-<resumo19>-<editora4>-411111111-<capitulo4>-1,200
+<publicacao20>-<investigador16>,<investigador17>-<key1>,<key2>,<key3>-Capitulo de Livro-2014-4000-<resumo20>-<editora5>-511111111-<capitulo5>-1,200
+
+<publicacao22>-<investigador21>,<investigador22>-<key1>,<key2>,<key3>-Livro de Conferencias-2020-7500-<resumo22>-<editora2>-211111111-<conferencia2>-3
+<publicacao23>-<investigador21>,<investigador22>-<key1>,<key2>,<key3>-Livro de Conferencias-2018-2500-<resumo23>-<editora3>-311111111-<conferencia3>-4
+<publicacao24>-<investigador21>,<investigador22>-<key1>,<key2>,<key3>-Livro de Conferencias-2018-2500-<resumo24>-<editora4>-411111111-<conferencia4>-2
+<publicacao25>-<investigador21>,<investigador22>-<key1>,<key2>,<key3>-Livro de Conferencias-2014-1000-<resumo25>-<editora5>-511111111-<conferencia5>-5
