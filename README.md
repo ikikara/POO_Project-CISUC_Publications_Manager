@@ -12,7 +12,7 @@
 
 ## Description
 This project was developed for Object-Oriented Programming subject @University of Coimbra, Informatics Engineering <br>
-Consists in develop a program that manage publications of an organization called CISUC
+Consists in develop a program that manages publications of an organization called CISUC
 #### Main Languages:
 ![](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=FFFFFF) 
 
