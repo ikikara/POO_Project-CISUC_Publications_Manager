@@ -45,4 +45,4 @@ You have two ways to run this project:
 - For more information about how the src and resource files are structured read the report
 
 ## Authors:
-- [João Silva](https://github.com/ikikara)
+- [João Silva](https://github.com/joaosilva21)
